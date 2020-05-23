@@ -1,0 +1,1 @@
+Arrays can be added, multiplied etc, no matter whether they are one dimensional or multidimensional. But there are some conditions for operations performed on the array.
