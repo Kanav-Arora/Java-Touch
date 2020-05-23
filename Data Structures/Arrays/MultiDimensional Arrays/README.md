@@ -1,0 +1,1 @@
+1D arrays combines to form multidimensional arrays.
