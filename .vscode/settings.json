@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "OOPs/Encapsulation"
+        "OOPs/Encapsulation",
+        "OOPs/Abstraction",
+        ""
     ]
 }

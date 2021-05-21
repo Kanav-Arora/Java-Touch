@@ -1,3 +1,5 @@
+package Anagram;
+
 import java.util.Scanner;
 public class AnagramProject {
 

@@ -1,3 +1,5 @@
+package OOPs.Inheritance;
+
 /*
 
     Here classes B, C, D extends same class A. So class B, C, D are subclasses of same parent

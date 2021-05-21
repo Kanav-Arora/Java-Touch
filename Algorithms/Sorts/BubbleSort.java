@@ -1,4 +1,4 @@
-package array;
+package Algorithms.Sorts;
 
 public class BubbleSort {
 

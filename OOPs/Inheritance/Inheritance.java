@@ -1,3 +1,5 @@
+package OOPs.Inheritance;
+
 class Class1 {
     int standard;
     String section;
