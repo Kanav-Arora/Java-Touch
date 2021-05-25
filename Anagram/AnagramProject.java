@@ -58,7 +58,7 @@ public class AnagramProject {
 			System.out.println("Not anagram");
 		}
 		
-
+		sc.close();
 	}
 
 }

@@ -48,5 +48,6 @@ public class Type2 {
 		{
 			System.out.println("Is Anagram");
 		}
+		sc.close();
 	}
 }

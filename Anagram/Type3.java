@@ -52,6 +52,7 @@ public class Type3 {
 		{
 			System.out.println("Not Anagram");
 		}
+		sc.close();
 	}
 
 }
